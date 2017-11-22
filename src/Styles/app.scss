@@ -1,0 +1,15 @@
+$lvhnDBlue: #00539b;
+$lvhnLBlue: #00a3e4;
+$lvhnGreen: #8dc446;
+
+html {
+    background-color: $lvhnLBlue;
+}
+
+.TitleBar {
+    background-color: $lvhnGreen;
+    .logo {
+        height: 7vh;
+    }
+}
+
